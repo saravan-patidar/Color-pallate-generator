@@ -1,5 +1,7 @@
 # Color-pallate-generator
-Simple Website Generate a Random color
+URL https://saravan-patidar.github.io/Color-pallate-generator/
+
+Simple Website Generate a Random color 
 
 Techonology Used --> Html, Css, JS 
 ```
